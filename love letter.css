@@ -1,3 +1,4 @@
+
 .container {
     position: relative;
   }
@@ -5,7 +6,7 @@
   .valentines {
     position: relative;
     top: 350px;
-    left: 300px;
+    left: 150px;
     cursor: pointer;
     animation: up 3s linear infinite;
   }
@@ -225,7 +226,7 @@
     border-radius: 50%;
     background-color: rgba(165, 113, 145, 0.342);
     margin-top: 370px;
-    margin-left: 300px;
+    margin-left: 155px;
     animation: scale 3s linear infinite;
     z-index: -1;
   }
@@ -239,5 +240,3 @@
       transform: scaleX(0.85);
     }
   }
-  
-  
